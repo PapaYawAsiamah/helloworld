@@ -1,1 +1,73 @@
-helloworld
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Fist Blog</title>
+    <style>
+      img {
+        width: 150px;
+        float: left;
+        margin-right: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>IMT</h1>
+    <img src="images/IMG_20191105_171755_716.jpg" alt="a boy" />
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde eos
+      consequuntur quae vel odit dignissimos id consectetur itaque minima modi.
+      Veniam laborum praesentium ratione tempore dignissimos exercitationem
+      suscipit! Quo labore iure nobis, saepe officia quod veritatis vero
+      commodi, similique voluptates repellat error ducimus in cumque amet
+      voluptate, quibusdam eveniet enim magnam aperiam ab! Dolor, numquam nisi
+      a, explicabo ex fugiat adipisci dignissimos quisquam nemo inventore fuga
+      aliquam blanditiis deleniti suscipit praesentium, ipsum eos corrupti quia
+      cum? Ducimus deserunt nemo sit ex, aliquid odit quaerat recusandae ea
+      neque suscipit, dolore quos saepe? Reprehenderit, facilis accusamus.
+      Tenetur vero omnis repellendus commodi obcaecati cupiditate deserunt.
+      Reiciendis culpa architecto dignissimos est necessitatibus neque possimus
+      fugit quidem ad repudiandae blanditiis sed officia, quisquam obcaecati
+      rem. Ratione, quod laboriosam. Debitis corrupti aut nisi incidunt
+      necessitatibus, ea optio vero sed? Fugit quos vel rerum consequatur eius
+      id! Illum, nostrum? Non, quas enim? In magni explicabo commodi alias esse
+      exercitationem quae dicta quas perspiciatis soluta, consequuntur unde
+      aperiam culpa veniam odio quasi, repellat excepturi incidunt
+      necessitatibus tenetur animi! Officiis illo reiciendis corrupti dolorem.
+      Explicabo officia est natus accusamus consectetur odio id maiores dolorum
+      beatae fuga dolore doloribus quis, tenetur placeat ratione nulla
+      asperiores magnam ullam qui, rerum deserunt incidunt enim dignissimos
+      vero! Debitis, distinctio nesciunt? Beatae fugit quidem sit dicta maxime
+      pariatur consectetur cum. Sint laboriosam odit voluptates atque nesciunt?
+      Harum, soluta dolores! Rerum rem aperiam consequatur, est neque commodi
+      accusamus recusandae in molestias qui, voluptatem quibusdam repellat
+      dolore explicabo enim? Similique, totam fuga deleniti cumque ratione
+      facilis, velit culpa mollitia impedit quam nobis tenetur eaque unde quae
+      omnis assumenda perferendis sapiente, ipsam autem asperiores? Quam autem
+      animi architecto aperiam neque maxime accusantium veritatis laudantium
+      pariatur ducimus, quasi sunt vero cum minima. Corporis deserunt est sit
+      consequuntur ipsam harum sint beatae perspiciatis repellat consectetur
+      sapiente tempore nostrum inventore alias mollitia, similique illo eum
+      esse, odit expedita. Nesciunt, culpa dicta excepturi quae mollitia
+      consectetur rerum odio fugit, optio sit nemo amet. Rerum veniam dolores,
+      magni quaerat molestiae facilis placeat repellat reprehenderit expedita
+      ducimus recusandae nisi autem tenetur illum ratione quidem iure in? Omnis,
+      dolorum ipsum? Non ad mollitia tempore provident ab, vero similique
+      voluptatem earum perferendis atque temporibus sed ratione, eveniet
+      cupiditate exercitationem, quas praesentium velit officia placeat debitis!
+      Voluptates nobis aspernatur est facilis quibusdam ad earum, quas quis!
+      Repellat placeat, cum sequi reiciendis mollitia vero maxime ut natus ipsa
+      tempora fuga corrupti voluptatum? Aliquam quas ullam obcaecati similique
+      repudiandae sapiente optio suscipit, perspiciatis non, blanditiis
+      excepturi odio. Error ipsa itaque alias aliquam eum voluptatum
+      necessitatibus eligendi. Ducimus eos nesciunt fugit maxime id nemo est
+      illum aspernatur dolorem delectus laborum magni nam, corrupti voluptates
+      rem voluptate facere deserunt dolorum iure et cupiditate? Aspernatur
+      suscipit ipsum in consectetur corporis sunt nostrum dolor iure nobis!
+      Similique obcaecati qui ullam, maxime deleniti illum! Voluptatibus iusto
+      alias consequuntur autem soluta illo, totam delectus obcaecati molestias
+      culpa sit molestiae! Eaque ut ab, maxime esse deleniti quasi maiores
+      dolore! Facere, accusantium illo incidunt adipisci quia, omnis sint
+      ratione veritatis voluptatem et dolore voluptas corporis inventore.
+    </p>
+  </body>
+</html>
